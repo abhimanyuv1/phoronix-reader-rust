@@ -7,5 +7,10 @@ edition = "2018"
 
 [dependencies]
 ureq = "2.1.1"
-select = "*"
+select = "0.5.0"
 colored = "2"
+textwrap = "0.14.2"
+getopts = "0.2"
+gtk = "0.14"
+gdk = "0.14"
+pango = "0.14"
